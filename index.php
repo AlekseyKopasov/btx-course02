@@ -1,1 +1,15 @@
-<?define("WIZARD_DEFAULT_SITE_ID", "s3");require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/classes/general/wizard.php");$wizard = new CWizard("nsandrey:empty_install");$wizard->Install();require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/epilog_after.php");?>
+
+
+require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
+?>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<p>fasdfsadfsdf</p>
+<? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
